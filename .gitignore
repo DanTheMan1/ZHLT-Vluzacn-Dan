@@ -22,6 +22,13 @@ ipch
 *.vcxproj.*
 *.sln
 
+#Build Directories
+Debug/
+Debug\
+Release/
+Release\
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
