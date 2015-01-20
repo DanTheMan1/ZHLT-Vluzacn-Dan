@@ -16,7 +16,10 @@ ipch
 *.sdf
 *.opensdf
 *.idb
+*.vcproj
+*.vcproj.*
 *.vcxproj
+*.vcxproj.*
 *.sln
 
 # Windows image file caches
